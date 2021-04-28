@@ -15,6 +15,9 @@ Last year I worked on a robot for the [French robotic cup](https://www.coupedero
 
 I like to spend some of my time on open source projects like [Jobatator](https://github.com/jobatator/jobatator) a project in Go or [Vue-Apitator](https://github.com/lefuturiste/vue-apitator) a plugin for Vue.js.
 
-My portfolio ➡️ ➡️ [https://lefuturiste.fr](https://lefuturiste.fr) ⬅️ ⬅️
+- 🖼️ My portfolio: ➡️ ➡️ [https://lefuturiste.fr](https://lefuturiste.fr) ⬅️ ⬅️
+- 📬 My email: contact@lefuturiste.fr
+- 🗨️ My discord: lefuturiste#5297 or [my server](https://discord.gg/3W94m7ts3H)
+- 💬 My twitter: [@_le_futuriste](https://twitter.com/_le_futuriste)
 
 Cheers! 👨‍💻 🍻
