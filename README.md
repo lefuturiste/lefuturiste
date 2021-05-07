@@ -21,3 +21,5 @@ I like to spend some of my time on open source projects like [Jobatator](https:/
 - 💬 My twitter: [@_le_futuriste](https://twitter.com/_le_futuriste)
 
 Cheers! 👨‍💻 🍻
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lefuturiste&layout=compact"></p>
