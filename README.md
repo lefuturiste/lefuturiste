@@ -1,6 +1,6 @@
 ## Hi, I'm lefuturiste 👋
 
-I'm a french 🇫🇷 developer who like to build websites 🌐 and robots 🤖.
+I'm a french 🇫🇷 developer who likes to build websites 🌐 and robots 🤖.
 
 I'm also a Math 🧮 and Physics 🍎 student.
 
