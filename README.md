@@ -2,8 +2,6 @@
 
 I'm a french 🇫🇷 developer who likes to build websites 🌐 and robots 🤖.
 
-<!-- I'm also a Math 🧮 and Physics 🍎 student. -->
-
 I use plenty and various technologies but I code mainly in Vue.js, Node.js, Python and PHP. 💻
 
 Some of my current side-projects are :
@@ -17,10 +15,11 @@ I like to spend some of my time on open source projects like [Jobatator](https:/
 
 I also to contribute to some [Open Data](https://en.wikipedia.org/wiki/Open_data) projects like [OpenStreetMap](https://openstreetmap.org) or [WikiData](https://wikidata.org)
 
-- 🖼️ My portfolio: ➡️ ➡️ [https://lefuturiste.fr](https://lefuturiste.fr) ⬅️ ⬅️ Not very up to date
+The best way to reach me is either by [Mastodon](https://mstdn.io/@lefuturiste) or by [email](contact@lefuturiste.fr).
+
+- 🖼️ My portfolio: ➡️ ➡️ [https://lefuturiste.fr](https://lefuturiste.fr) ⬅️ ⬅️
 - 📬 My email: contact@lefuturiste.fr
-- 🗨️ My discord: lefuturiste#5297 or [my server](https://discord.gg/3W94m7ts3H)
-- 💬 My twitter: [@_le_futuriste](https://twitter.com/_le_futuriste)
+- 💬 My Mastodon: [lefuturiste@mstdn.io](https://mstdn.io/@lefuturiste)
 - 📌 My OpenStreetMap profile: [lefuturiste](https://openstreetmap.org/user/lefuturiste)
 
 Cheers! 👨‍💻 🍻
