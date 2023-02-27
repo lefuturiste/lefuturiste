@@ -21,6 +21,7 @@ The best way to reach me is either by [Mastodon](https://mstdn.io/@lefuturiste) 
 - 📬 My email: contact@lefuturiste.fr
 - 💬 My Mastodon: [lefuturiste@mstdn.io](https://mstdn.io/@lefuturiste)
 - 📌 My OpenStreetMap profile: [lefuturiste](https://openstreetmap.org/user/lefuturiste)
+- 🔒 My GPG public key: https://pf.lefuturiste.fr/gpg/matthieubessat.pub.gpg.txt
 
 Cheers! 👨‍💻 🍻
 
