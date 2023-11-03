@@ -2,9 +2,11 @@
 
 I'm a french 🇫🇷 developer who likes to build websites 🌐 and robots 🤖.
 
-I use plenty and various technologies but I code mainly in Vue.js, Node.js, Python and PHP. 💻
+I use plenty and various technologies but I code mainly in Rust, Python, PHP and JS. 💻
 
-Some of my current side-projects are :
+Currently I'm trying to get away from github and use other software forges services, like the one that are based on [Forgejo](https://forgejo.codeberg.page/). You can find me on my personal forge instance: https://forge.lefuturiste.fr/.
+
+Some of my side-projects are :
 
 - 🎮 [RetroBox, the open source console](https://retrobox.tech) [on github](https://github.com/retrobox) with [Thingmill](https://thingmill.fr)
 - 🚀 [WikiArchives.space](https://wikiarchives.space) a website to archive spaceflight photos also [on github](https://github.com/archives-space).
